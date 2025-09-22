@@ -11,6 +11,11 @@
    Perubahan kode dan kesalahan tag
    Jika terjadi kesalahan penulisan tag (misalnya `<p>` ditulis `<pp>`), browser biasanya **tetap menampilkan halaman**, tapi struktur HTML bisa jadi kacau. Ada elemen yang        tidak ditutup atau salah ketik bisa menyebabkan tampilan tidak sesuai. Jadi, bukan error fatal seperti di bahasa pemrograman, tapi lebih ke error tampilan (rendering error).
 
+**Contoh**
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/61715ce2-121d-4c70-935c-f5feb305a394" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/2362415d-3a4f-4d06-b37f-9cba06ae3ffa" />
+
 2. Apa perbedaan dari tag `<p>` dengan tag `<br>`, berikan penjelasannya!    
    **Jawaban:**
    
