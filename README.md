@@ -43,6 +43,4 @@
   
 
 # TUGAS 
-<!-- Uploading "Screenshot 2025-09-22 182533.png"... -->
-
-<!-- Uploading "Screenshot 2025-09-22 182600.png"... -->
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/211e9315-c2ea-4c36-bcee-cdd6616f10e8" />
