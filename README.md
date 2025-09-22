@@ -48,5 +48,15 @@
   
 
 # TUGAS 2
+**HASIL INPUT DAN OUTPUT**
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/211e9315-c2ea-4c36-bcee-cdd6616f10e8" />
 
+![Image](https://github.com/user-attachments/assets/5bd7c58f-3a77-488e-8bc2-acc3faba02e5)
+
+![Image](https://github.com/user-attachments/assets/d21c7db8-31ae-4e65-8328-9adf95624d13)
+
+![Image](https://github.com/user-attachments/assets/ef1eb0c3-d121-4a24-94e9-e3189d58c958)
+
+![Image](https://github.com/user-attachments/assets/42d007b2-acd7-4211-8433-7b187df4f136)
+
+![Image](https://github.com/user-attachments/assets/c6f4a103-2d4d-4144-b5c8-8b0d3fa59cc2)
