@@ -43,3 +43,6 @@
   
 
 # TUGAS 
+<!-- Uploading "Screenshot 2025-09-22 182533.png"... -->
+
+<!-- Uploading "Screenshot 2025-09-22 182600.png"... -->
