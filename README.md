@@ -44,3 +44,5 @@
 
 # TUGAS 
 <img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/211e9315-c2ea-4c36-bcee-cdd6616f10e8" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/67304f3a-5f2d-4ab3-b05c-aecf01d68844" />
